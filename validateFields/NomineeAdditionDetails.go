@@ -136,7 +136,7 @@ func AssignNomineeDetails() Eightline {
 	lEighthLineClientRec.UserField3 = 0
 	lEighthLineClientRec.UserField4 = ""
 	lEighthLineClientRec.UserField5 = 0
-	lEighthLineClientRec.NomineeSerialNumber = 0
+	lEighthLineClientRec.NomineeSerialNumber = 1
 	lEighthLineClientRec.RelationshipWithBO = 02
 	lEighthLineClientRec.PercentageOfShares = 528.08
 	lEighthLineClientRec.ResidualSecuritiesFlag = "N"

@@ -35,7 +35,6 @@ func main() {
 	// lUser.Email = "FT123@gmail.com"
 
 	// MyValidator(lUser)
-
 	NomineeAdditionValidator(validatefields.AssignNomineeDetails())
 
 }
